@@ -14,3 +14,13 @@ CoSIAdata is meant to be integrated into the CoSIA Package, a visualization
 tool for cross species comparison of expression metrics. However, it can be 
 used to conduct independent species, tissue, and gene-specific 
 expression analysis.
+
+## Version 1.9.0
+
+#Update	Package	for BioC 3.21
+
+
+## Version 1.9.1
+
+#Update	Package	for BioC 3.22
+
